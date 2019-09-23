@@ -1,0 +1,29 @@
+{
+  "name": "ocr-js-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrsmith-node-projects/ocr-js-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zrsmith-node-projects/ocr-js-node/issues"
+  },
+  "homepage": "https://github.com/zrsmith-node-projects/ocr-js-node#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "tesseract.js": "^1.0.19"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
