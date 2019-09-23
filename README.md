@@ -7,5 +7,5 @@
 - EJS
 - Express
 - Multer
-- Tesseract.js
+- Tesseract.js V2
 - Nodemon
