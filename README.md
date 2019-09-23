@@ -1,0 +1,1 @@
+## OCR scanner using NodeJS
